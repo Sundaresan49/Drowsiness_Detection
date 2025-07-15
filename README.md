@@ -146,5 +146,3 @@ drowsy        37         19  0.97   0.95  0.97
 * Custom dataset annotated using [LabelImg](https://github.com/tzutalin/labelImg)
 
 ---
-
-Let me know if you'd like a version tailored for **streamlit**, **Flask**, or **mobile deployment** too!
